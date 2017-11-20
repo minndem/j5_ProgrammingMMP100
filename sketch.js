@@ -29,17 +29,18 @@ function draw()
 	//background ("#003366");
 	//document.write('Serge Dontsa');
 	fill("#ADD8E6");
-	ellipse(800, 150, diam1, diam1);
+	ellipse(700, 150, diam1, diam1);
 	diam1 = diam1+5;
 
 	rectMode(RADIUS);
 	fill(255);
-	rect(800, 150, 150, 30);
+	rect(700, 150, 150, 30);
 
 	fill('green');
-	text("SERGE DONTSA", 800 ,150);
+	text("SERGE DONTSA", 660 ,155);
 
 
 
 }
+
 
