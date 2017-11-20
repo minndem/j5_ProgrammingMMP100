@@ -1,0 +1,86 @@
+h1.h1{
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+font-family: 'Saira', sans-serif;
+margin-top: 5%;
+background-color: gray;
+font-size: 200%;
+color:#ffffff;
+}
+div.d1{
+
+float: left;
+width: 380px;
+height: 250px;
+margin: 10px;
+
+}
+div.container{
+	text-align: justify;
+	font-family: 'Saira', sans-serif;
+	padding-left: 10%;
+	width: 1024px;
+
+}
+a{
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: bold;
+
+
+}
+a:hover{
+	background-color: #000000;
+	color: #ffffff;
+
+	
+}
+div.body{
+	height: 800px;
+	width: 100%;
+	background-image: url('background.jpg');
+}
+span{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+hr{
+	border-bottom: 1px solid #000;
+}
+
+p.p1{
+	font-weight: bold;
+}
+span.caption{
+	font-size: 12px;
+}
+ a.img-info
+ {
+	font-size: 12px;
+	color: red;
+	font-weight: normal;
+	font-style: italic;
+
+}
+
+ a.img-info:hover{
+
+	background-color: unset;
+	border: none;
+	font-weight: normal;
+	text-decoration: underline;
+}
+img{
+	margin-top: 20px;
+}
+p.p11{
+	font-size: 20px;
+	font-weight: bold;
+	padding-left: 0px;
+}
+p.button{
+
+	padding: 0px;
+	margin-left: 0px;
+}
